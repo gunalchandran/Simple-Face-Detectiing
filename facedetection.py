@@ -12,4 +12,4 @@ while True:
     key=cv2.waitKey(1) # wait until enter any button
     if key==27:
         break # quit() or break...
-    
+    # this code is completed
